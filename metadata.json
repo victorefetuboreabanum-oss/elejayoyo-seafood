@@ -1,0 +1,7 @@
+{
+  "name": "Eleyoyo Seafood Market",
+  "description": "Lagos' premier 24-hour luxury seafood market website featuring cinematic design, premium product showcase, and real-time seafood assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
